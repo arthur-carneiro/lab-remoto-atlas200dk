@@ -3,8 +3,10 @@ Laboratório Remoto desenvolvido em atividades de Estágio na Universidade Feder
 
 Para download das versões atualizadas do CANN, toolkits do Atlas 200 DK e Mindstudio acesse:
 
-github.com/Ascend
-gitee.com/Ascend
+- github.com/Ascend
+
+
+- gitee.com/Ascend
 
 
 
